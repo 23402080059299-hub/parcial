@@ -1,0 +1,2 @@
+# parcial
+pasar materia
